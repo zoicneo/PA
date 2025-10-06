@@ -1,0 +1,7 @@
+{
+  "name": "Native Audio Function Call Sandbox",
+  "description": "Build your own Native Audio Function Call app! An interactive sandbox for experimenting with native audio streaming and function calling using the Gemini API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
